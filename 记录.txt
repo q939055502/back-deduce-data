@@ -1,0 +1,6 @@
+data_re_scope_str=[] #推定值取值范围数组，只能从这里面取值，反推
+str_name='' #构建名称
+str_avg='' #平均值
+str_sd='' #标准差
+str_min='' #最小值
+# str_str_Estimated_value='' #推定值
